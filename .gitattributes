@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0_21B8C3904B84954BFA23BF8627957976.bin filter=lfs diff=lfs merge=lfs -text
+/Intermediate/CachedAssetRegistry/CachedAssetRegistry_0_F8FDDF6C48D3CBB84B7E6AB34C594BDC.bin filter=lfs diff=lfs merge=lfs -text

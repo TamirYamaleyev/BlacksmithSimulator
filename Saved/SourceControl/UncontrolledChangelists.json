@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Wraith/Documents/Unreal Projects/BlacksmithSimulator/Content/Interfaces/BPI_Interactable.uasset",
+				"C:/Users/Wraith/Documents/Unreal Projects/BlacksmithSimulator/Content/BP_Interactable.uasset",
+				"C:/Users/Wraith/Documents/Unreal Projects/BlacksmithSimulator/Content/BP_InteractableBase.uasset",
+				"C:/Users/Wraith/Documents/Unreal Projects/BlacksmithSimulator/Content/Input/Actions/IA_Interact.uasset",
+				"C:/Users/Wraith/Documents/Unreal Projects/BlacksmithSimulator/Content/Input/IMC_Default.uasset",
+				"C:/Users/Wraith/Documents/Unreal Projects/BlacksmithSimulator/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/Wraith/Documents/Unreal Projects/BlacksmithSimulator/Content/__ExternalActors__/FirstPerson/Lvl_FirstPerson/A/D5/SBBGA3UOO9B2U9U4QKDMG9.uasset"
+			]
+		}
+	]
+}
